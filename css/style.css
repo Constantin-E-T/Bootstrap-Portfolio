@@ -1,0 +1,10 @@
+.header-img img {
+    border-radius: 50%;
+    height: 80px;
+}
+
+@media  screen and (max-width: 991px) {
+    .header-img img {
+        display: none;
+    }
+}
