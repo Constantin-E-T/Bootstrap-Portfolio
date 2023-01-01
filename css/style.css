@@ -3,6 +3,23 @@
     height: 80px;
 }
 
+.navbar-padding {
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+/* navbar end */
+
+div.background {
+    height: 80vh;
+    background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.9)), url(../images/profile-hero.jpeg);
+    background-size: cover; 
+    background-position: 50% 50%;
+    overflow: hidden;
+}
+
+
+/* media query */
+
 @media  screen and (max-width: 991px) {
     .header-img img {
         display: none;
