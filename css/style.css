@@ -1,3 +1,4 @@
+/* navbar */
 .header-img img {
     border-radius: 50%;
     height: 80px;
@@ -9,6 +10,7 @@
 }
 /* navbar end */
 
+/* hero section */
 div.background {
     height: 70vh;
     background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.9)), url(../images/profile-hero.jpeg);
@@ -17,9 +19,16 @@ div.background {
     overflow: hidden;
 }
 
+/* hero section end */
+
+
 .margin-bottom {
     margin-top: 30%;
     
+}
+button:hover {
+    opacity: .5;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .about,
@@ -27,6 +36,7 @@ div.background {
     height: 50vh;
 }
 
+/* footer */
 footer {
     margin-top: 200px;
 }
@@ -38,11 +48,8 @@ footer * a {
 .btn.btn-rounded {
     border-radius: 50%;
 }  
+/* footer end */
 
-button:hover {
-    opacity: .5;
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
 
 
 /* media query */
