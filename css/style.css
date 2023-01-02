@@ -10,11 +10,34 @@
 /* navbar end */
 
 div.background {
-    height: 80vh;
+    height: 70vh;
     background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.9)), url(../images/profile-hero.jpeg);
     background-size: cover; 
     background-position: 50% 50%;
     overflow: hidden;
+}
+
+.margin-bottom {
+    margin-top: 30%;
+    
+}
+
+.about,
+.skills {
+    height: 50vh;
+}
+
+footer * a {
+    color: #fff!important;
+}
+
+.btn.btn-rounded {
+    border-radius: 50%;
+}  
+
+button:hover {
+    opacity: .5;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 
@@ -23,5 +46,9 @@ div.background {
 @media  screen and (max-width: 991px) {
     .header-img img {
         display: none;
+    }
+
+    .margin-bottom {
+        margin-top: 50%;   
     }
 }
