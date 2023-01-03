@@ -3,8 +3,8 @@
 Portfolio Website build with bootstrap
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![HTML5](https://img.shields.io/badge/HTML5-88.1%-orange)
-![CSS](https://img.shields.io/badge/CSS-11.9%-blueviolet)
+![HTML5](https://img.shields.io/badge/HTML5-88.1%25-orange)
+![CSS](https://img.shields.io/badge/CSS-11.9%25-blueviolet)
 
 ## Project Link 👇
 
